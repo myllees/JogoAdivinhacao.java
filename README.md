@@ -20,6 +20,6 @@ Um jogo simples de adivinhação de números em Java, onde o jogador escolhe um 
 1. **O Repositório**:
    ```bash
    git clone https://github.com/myllees/JogoAdivinhacao.java.git
-2. **Possíveis melhorias futuras:"
+2. **Possíveis melhorias futuras:**
    - Adicionar uma interface gráfica;
    - Salvar estatísticas do jogador em um arquivo.
